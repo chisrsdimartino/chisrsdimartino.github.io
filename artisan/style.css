@@ -1,0 +1,51 @@
+body {
+    background-color: #000000;
+}
+
+h1 {
+    color: #ed1c24;
+    text-align: left;
+    font-family: 'Indubitably NF';
+    font-size: 60pt;
+    letter-spacing: 2pt;
+    text-indent: 15pt;
+}
+
+h3 { color:#ed1c24;
+    text-align: center;
+    font-family: 'Indubitably NF';
+    font-size: 18pt;
+    letter-spacing: 2pt;
+    }
+
+header {
+    background-image: url("banner.jpg");
+    height: 200px;
+    width: 800px;}
+
+p { color:#ffffff;
+    text-align: left;
+    font-family: 'Euphemia UCAS';
+    font-size: 12pt;
+    line-height: 16pt;}
+
+ul {background-color: #5e5b62;
+     color:#ffffff; 
+    text-align: left;
+    font-family: 'Euphemia UCAS';
+    font-size: 12pt;
+    line-height: 16pt}
+
+a {background-color: #ffffff;
+    color:#ed1c24; 
+    text-align: left;
+    font-family: 'Euphemia UCAS';
+    font-size: 12pt;
+    line-height: 20pt;
+    }
+
+figcaption {color:#5e5b62;
+    font-family: 'Euphemia UCAS';
+    font-size: 9pt;
+    font-style: italic;
+ }
