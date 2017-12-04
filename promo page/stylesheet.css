@@ -38,14 +38,14 @@ font-weight: bold;}
 
 h6 {font-family: 'Ubuntu', sans-serif;
     color: #e61012;
-font-size: 30px;
+    font-size: 30px;
     
     padding-top: 100px;
-    text-align: left;
+    
     font-variant: small-caps;
     text-decoration: underline;
     font-weight: bold;
-    text-indent: 45px;
+    
     display:inline-block;
 }
 

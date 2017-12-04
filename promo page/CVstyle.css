@@ -32,11 +32,13 @@ ul {font-family: 'Ubuntu', sans-serif;
     color: #ffffff;
     text-align: left;
 font-size: 16pt;
+    padding-left: 80px;
     
     }
-li{ line-height: 8pt;
+li{ 
     list-style-image: url(lips.jpg);
-    list-style-position: inside;
-    text-indent: 10px;
+    
+    
+    text-indent: 30px;
     
 }
