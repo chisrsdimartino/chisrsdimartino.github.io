@@ -6,13 +6,14 @@ body {
 background-image: url(B&W%20image.jpg);
 background-repeat: no-repeat;
 background-position:right bottom;
-background-size:auto;}
+background-size:auto;
+min-height: 100%;}
 
 .container {
 padding: 1px 1px 1px 1px;
 border: 10px solid #e61012;
-margin:auto;
 outline: 10px solid #ffffff;
+min-height: 100%;
 }
 
 
@@ -36,16 +37,18 @@ font-size: 25pt;
 
 font-weight: bold;}
 
-h6 {font-family: 'Ubuntu', sans-serif;
+.nav {font-family: 'Ubuntu', sans-serif;
     color: #e61012;
     font-size: 30px;
     
-    padding-top: 100px;
+    padding-top: 200px;
     
     font-variant: small-caps;
     text-decoration: underline;
     font-weight: bold;
     
     display:inline-block;
+    margin-bottom: 30px;
+    margin-left: 50px;
 }
 
