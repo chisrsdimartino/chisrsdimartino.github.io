@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Sigmar+One');
+
+body {
+    background-color: #000000;
+background-image: url(B&W%20image.jpg);
+background-repeat: no-repeat;
+background-position:right bottom;
+background-size:auto;}
+
+.container {
+padding: 1px 1px 1px 1px;
+border: 10px solid #e61012;
+margin:auto;
+outline: 10px solid #ffffff;
+}
+
+
+h1 {
+    color: #e61012;
+    text-align: left;
+    font-family: 'Sigmar One', cursive;
+    font-size: 80pt;
+    letter-spacing: 5pt;
+    text-indent: 30px; 
+    text-shadow: 3px 3px #ffffff;
+  
+}
+
+h3 {font-family: 'Ubuntu', sans-serif;
+    color: #e61012;
+    text-align: left;
+font-size: 25pt;
+    text-indent: 45px;
+    letter-spacing: 14px;
+
+font-weight: bold;}
+
+h6 {font-family: 'Ubuntu', sans-serif;
+    color: #e61012;
+font-size: 30px;
+    
+    padding-top: 100px;
+    text-align: left;
+    font-variant: small-caps;
+    text-decoration: underline;
+    font-weight: bold;
+    text-indent: 45px;
+    display:inline-block;
+}
+

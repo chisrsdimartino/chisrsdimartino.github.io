@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Sigmar+One');
+
+
+body {
+    background-color: #000000;}
+.container {
+padding: 5px 5px 20px 5px;
+border: 10px solid #e61012;
+margin:auto;
+outline: 10px solid #ffffff;
+}
+
+h1 {
+    color: #e61012;
+    text-align: center;
+    font-family: 'Sigmar One', cursive;
+    font-size: 30pt;
+    letter-spacing: 5pt;
+    
+    }
+h3 {font-family: 'Ubuntu', sans-serif;
+    color: #e61012;
+    text-align: left;
+font-size: 18pt;
+    text-indent: 24px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+font-weight: bold;}
+
+ul {font-family: 'Ubuntu', sans-serif;
+    color: #ffffff;
+    text-align: left;
+font-size: 16pt;
+    
+    }
+li{ line-height: 8pt;
+    list-style-image: url(lips.jpg);
+    list-style-position: inside;
+    text-indent: 10px;
+    
+}
