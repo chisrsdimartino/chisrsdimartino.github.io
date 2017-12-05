@@ -27,13 +27,16 @@ font-size: 18pt;
     text-indent: 24px;
     letter-spacing: 5px;
     text-transform: uppercase;
-font-weight: bold;}
+font-weight: bold;
+margin-top: 80px;
+margin-bottom: -10px;}
 
 ul {font-family: 'Ubuntu', sans-serif;
     color: #ffffff;
     text-align: left;
 font-size: 16pt;
     padding-left: 80px;
+    
     
     }
 li{ 
