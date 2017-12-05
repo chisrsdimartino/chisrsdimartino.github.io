@@ -6,13 +6,16 @@ body {
 }
 
 
-
+.container {width: 800px;
+padding: 20px;
+border: 10px solid #ed1c24;
+margin:auto;}
 
 h1 {
     color: #ed1c24;
     text-align: left;
     font-family: 'Creepster';
-    font-size: 90pt;
+    font-size: 80pt;
     letter-spacing: 5pt;
     text-indent: 15pt;
     text-shadow: 5px 5px #000000;
@@ -71,8 +74,8 @@ div.gallery {
     margin: 20px;
     border: 5px solid #5e5b62;
     float: left;
-    width: 180px;
-    height: 300px;
+    width: 145px;
+    height: 220px;
 }
 
 div.gallery:hover {
@@ -87,3 +90,8 @@ div.gallery img {
 .indent {text-indent: 2em;}
 
 .bold {font-weight: bold;}
+
+.clear {
+    clear:both;
+}
+
