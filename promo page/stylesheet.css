@@ -7,13 +7,15 @@ background-image: url(B&W%20image.jpg);
 background-repeat: no-repeat;
 background-position:right bottom;
 background-size:auto;
-min-height: 100%;}
+min-height: 100%;
+}
 
 .container {
-padding: 1px 1px 1px 1px;
+padding: 1px;
 border: 10px solid #e61012;
 outline: 10px solid #ffffff;
-min-height: 100%;
+
+
 }
 
 
@@ -25,30 +27,29 @@ h1 {
     letter-spacing: 5pt;
     text-indent: 30px; 
     text-shadow: 3px 3px #ffffff;
+    
   
 }
 
 h3 {font-family: 'Ubuntu', sans-serif;
     color: #e61012;
     text-align: left;
-font-size: 25pt;
-    text-indent: 45px;
+    font-size: 25pt;
+    text-indent: 40px;
     letter-spacing: 14px;
-
-font-weight: bold;}
+    margin-top: -100px;
+    margin-bottom: 250px;
+    font-weight: bold;}
 
 .nav {font-family: 'Ubuntu', sans-serif;
-    color: #e61012;
+    color: #ffffff;
     font-size: 30px;
-    
-    padding-top: 200px;
-    
+    clear: both;
     font-variant: small-caps;
     text-decoration: underline;
-    font-weight: bold;
-    
+    font-weight: medium;
     display:inline-block;
-    margin-bottom: 30px;
+    margin-bottom: 80px;
     margin-left: 50px;
 }
 
