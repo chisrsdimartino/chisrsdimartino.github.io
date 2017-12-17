@@ -169,5 +169,5 @@ body {
 }
 
 @media screen and (max-width:800px) {.text{font-size: 1em;}}
-@media screen and (max-width:530px) {.text{font-size: 0.85em;}}
+@media screen and (max-width:530px) {.text{font-size: 0.85em;}  .topnav a{width:20%; font-size: 15px; padding:30px 0px;} .history1 {margin-top:5vh;} .lake1{margin-top:5vh;} .festival{margin-top:5vh;}}
 @media screen and (max-width:700px) {.title{font-size: 180px;}}
