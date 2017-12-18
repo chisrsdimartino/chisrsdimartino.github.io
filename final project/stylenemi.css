@@ -169,6 +169,5 @@ body {
 }
 
 @media screen and (max-width:800px) {.text{font-size: 1em;}}
-@media screen and (max-width:530px) {.text{font-size: 0.5em; overflow: scroll;}  .topnav a{width:20%; font-size: 15px; padding:30px 0px;} .history1 {margin-top:5vh; margin-bottom: 5vh; height: 20%;} .lake1{margin-top:5vh; margin-bottom: 5vh; height: 20%;} .festival{margin-top:5vh; margin-bottom: 5vh; height: 20%;} .titletext {
-    font-size: 20pt;}
+@media screen and (max-width:530px) {.text{font-size: 0.7em; overflow: scroll;}  .topnav a{width:20%; font-size: 15px; padding:30px 0px;} .history1 {margin-top:5vh; margin-bottom: 5vh; height: 20%;} .lake1{margin-top:5vh; margin-bottom: 5vh; height: 20%;} .festival{margin-top:5vh; margin-bottom: 5vh; height: 20%;} .titletext {font-size: 20pt;}
 @media screen and (max-width:700px) {.title{font-size: 180px;}}
